@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">제욱스</string>
+
+    <string name="time_format">현재 시각은 %1$d시 %2$d분 %3$d초입니다</string>
+    <string name="meal">급식</string>
+    <string name="yee">yee</string>
+
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+
+
+    <string name="qna">QnA</string>
+    <string name="help">도움말</string>
+    <string name="cmd_ex">명령 예시</string>
+    <string name="cmd_ex_content">급식 : 급식을 띄워줍니다.\n꺼져 : 프로그램을 종료합니다.\n비켜 : 윈도우를 최소화 합니다.\n노래해줘 : 제욱스가 노래를 불러줍니다.\n끝말잇기 : 제욱스와 하는 마성의 \n          끝말잇기\n퇴사 : (감옥) 출소일(?)을 알려줍니다.</string>
+
+
+    <string name="action_settings">설정</string>
+</resources>
