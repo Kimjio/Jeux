@@ -5,15 +5,24 @@
     <string name="meal">급식</string>
     <string name="yee">yee</string>
 
+    <string name="send">입력</string>
+
     <string name="yes">예</string>
     <string name="no">아니요</string>
 
 
     <string name="qna">QnA</string>
     <string name="help">도움말</string>
+    <string name="fullscreen">전체 화면</string>
+    <string name="fullscreen_exit">전체화면 나가기</string>
     <string name="cmd_ex">명령 예시</string>
-    <string name="cmd_ex_content">급식 : 급식을 띄워줍니다.\n꺼져 : 프로그램을 종료합니다.\n비켜 : 윈도우를 최소화 합니다.\n노래해줘 : 제욱스가 노래를 불러줍니다.\n끝말잇기 : 제욱스와 하는 마성의 \n          끝말잇기\n퇴사 : (감옥) 출소일(?)을 알려줍니다.</string>
+    <string name="cmd_ex_content">급식 : 급식을 띄워줍니다.\n꺼져 : 프로그램을 종료합니다.\n비켜 : 윈도우를 최소화 합니다.\n노래해줘 : 제욱스가 노래를 불러줍니다.\n끝말잇기 : 제욱스와 하는 마성의 \n          끝말잇기\n퇴사 : <strike>(감옥)</strike> 출소일(?)을 알려줍니다.</string>
 
+    <string name="changelog">~1.0 :\n기본 기능 추가\n1.1 :\n기본 언어가 Kotlin 으로 언어 변경 됨</string>
 
     <string name="action_settings">설정</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
